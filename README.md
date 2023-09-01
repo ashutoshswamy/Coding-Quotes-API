@@ -2,14 +2,14 @@
 
 This is an API which returns coding quotes from different authors
 
-**API Endpoint** - *https://coding-quotes-api.devashu397.repl.co/*
+**API Endpoint** - *https://coding-quotes-api.ashutoshswamy397.repl.co/*
 
 # Example
 
 ```js
 const axios = require("axios");
 
-const url = "https://coding-quotes-api.devashu397.repl.co/";
+const url = "https://coding-quotes-api.ashutoshswamy397.repl.co/";
 
 axios
   .get(url)
